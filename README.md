@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  1st year engineering student in Computer Science at EFREI Paris 🎓.<br />Currently in an apprenticeship since 2022 at Capgemini ♠️.
+  <strong>1st year engineering student in Computer Science at EFREI Paris 🎓.<br />Currently in an apprenticeship since 2022 at Capgemini ♠️.</strong>
 </p>
 
 <h2 align="center">Technology Stack <img src="https://raw.githubusercontent.com/DanielSzatyn/Daniel_Szatyn/main/images/laptop.gif" width="50">
