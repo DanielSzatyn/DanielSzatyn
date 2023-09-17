@@ -1,18 +1,17 @@
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+ <img src="https://badges.pufler.dev/visits/DanielSzatyn/DanielSzatyn"/> 
+ <img src="https://badges.pufler.dev/repos/DanielSzatyn"/>
+ <img src="https://badges.pufler.dev/commits/monthly/DanielSzatyn" />
 
 </p>
 
 <p align="center">
-  1st year engineering student in Computer Science at EFREI Paris 🎓.<br>
-  Currently in an apprenticeship since 2022 at Capgemini ♠️.
+  1st year engineering student in Computer Science at EFREI Paris 🎓.<br />Currently in an apprenticeship since 2022 at Capgemini ♠️.
 </p>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://raw.githubusercontent.com/DanielSzatyn/Daniel_Szatyn/main/images/laptop.gif" width="50">
+</h2>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -32,12 +31,12 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="mailto: daniel.sztyn@gmail.com">
- <img src="https://img.shields.io/badge/-Daniel Szatyn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.sztyn@gmail.com"/>
-</a>
+  <a href="mailto: daniel.sztyn@gmail.com">
+  <img src="https://img.shields.io/badge/-Daniel Szatyn-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.sztyn@gmail.com"/>
+  </a>
 
-<a href="https://linkedin.com/in/daniel-szatyn-213002222">
- <img src="https://img.shields.io/badge/-Daniel Szatyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/daniel-szatyn-213002222"/>
+  <a href="https://linkedin.com/in/daniel-szatyn-213002222">
+  <img src="https://img.shields.io/badge/-Daniel Szatyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/daniel-szatyn-213002222"/>
 </p>
 
 <h2 align="center">
@@ -52,7 +51,7 @@
 </p>
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSzatyn&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSzatyn&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <hr>
