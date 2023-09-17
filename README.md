@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  1st year engineering student in Computer Science at EFREI Paris 🎓. 
+  1st year engineering student in Computer Science at EFREI Paris 🎓.<br>
   Currently in an apprenticeship since 2022 at Capgemini ♠️.
 </p>
 
@@ -40,14 +40,6 @@
  <img src="https://img.shields.io/badge/-Daniel Szatyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/daniel-szatyn-213002222"/>
 </p>
 
-
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
@@ -63,7 +55,4 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSzatyn&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=DanielSzatyn&theme=redical">
-</p> 
 <hr>
